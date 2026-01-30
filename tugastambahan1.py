@@ -1,0 +1,18 @@
+# INPUT DATA (DINAMIS)
+nama = input("Masukkan nama: ")
+umur = input("Masukkan umur: ")
+hobi = input("Masukkan hobi: ")
+
+# WRITE (MENULIS FILE)
+file = open("biodata.txt", "w")
+file.write(f"Halo, nama saya {nama}.\n")
+file.write(f"Umur saya {umur} tahun.\n")
+file.write(f"Hobi saya {hobi}.")
+file.close()
+
+# READ (MEMBACA & VALIDASI)
+file = open("biodata.txt", "r")
+isi = file.read()
+print("\nIsi file biodata.txt:")
+print(isi)
+file.close()

@@ -1,0 +1,1 @@
+print('fahad', 'zubair', 'danen', 'hanif', sep='*_*')

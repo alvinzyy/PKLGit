@@ -1,0 +1,8 @@
+========================================
+LAPORAN HARIAN KEAMANAN - 2026-01-19
+Total Aktivitas: 3 kejadian
+========================================
+
+[2026-01-19 13:33:39] Kejadian: Pintu Utama Terbuka - USER: Satpam Budi
+[2026-01-19 13:33:40] Kejadian: Akses Ditolak (PIN Salah) - USER: Orang Asing
+[2026-01-19 13:33:41] Kejadian: Pintu Gudang Terkunci - USER: Admin Yanto
